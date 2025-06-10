@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... -->
-- 👯 I’m looking to collaborate on `Golang` or/and `Typescript`. 
+- 👯 I’m looking to collaborate on `Golang` or/and `Typescript (Nodejs)`. 
 - 🤔 I’m looking for help with getting a new Golang Job.
 - 💬 Ask me about Golang, Typescript or PHP
 - 📫 How to reach me: [email](mailto:oodegbaro@gmail.com)
