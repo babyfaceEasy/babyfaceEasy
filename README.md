@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... -->
 - 🛠 **Tech Stack:** `C++`, `Go`, `TypeScript`, `Node.js`, `PHP`
 - 👯 **Collaboration:** I'm looking to contribute to open-source projects in `C++` and `Go`.
-- 🚀 **Opportunities:** I am currently open to new roles involving C++, TypeScript and/or Go development.
+- 🚀 **Opportunities:** I am currently open to new roles involving C++, Go and/or TypeScript development.
 - 💬 **Ask me about:** Systems programming, backend architecture, or football coaching.
 - 📫 **Reach me:** [oodegbaro@gmail.com](mailto:oodegbaro@gmail.com)
 - 😄 **Pronouns:** he/him
