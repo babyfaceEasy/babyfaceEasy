@@ -24,4 +24,14 @@ Here are some ideas to get you started:
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyfaceEasy&show_icons=true)-->
 
+<!--![Olakunle's GitHub stats](https://github-readme-stats.vercel.app)-->
+
+---
+
+### 📊 My GitHub Stats
+
 ![Olakunle's GitHub stats](https://github-readme-stats.vercel.app)
+
+![Top Langs](https://github-readme-stats.vercel.app)
+
+![GitHub Streak](https://streak-stats.demolab.com)
