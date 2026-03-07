@@ -1,37 +1,31 @@
-### Hi there, I'm Olakunle 👋 
+### Hi there, I'm Olakunle 👋
 
-<!--
-**babyfaceEasy/babyfaceEasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Software Engineer based in Lagos, Nigeria 🇳🇬 | 6+ years building scalable backend systems in Fintech | Transitioning into Platform Engineering
 
-Here are some ideas to get you started:
+- 🛠 **Tech Stack:**  
+  <img src="https://skillicons.dev/icons?i=go,cpp,typescript,nodejs,php,kubernetes,docker,gcp,postgres,grpc&perline=10" height="32" />
 
--->
-##### I'm a Software Engineer based in Lagos, Nigeria 🇳🇬 focused on building scalable backend systems.
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... -->
-- 🛠 **Tech Stack:** `C++`, `Go`, `TypeScript`, `Node.js`, `PHP`
-- 👯 **Collaboration:** I'm looking to contribute to open-source projects in `C++` and `Go`.
-- 🚀 **Opportunities:** I am currently open to new roles involving C++, Go and/or TypeScript development.
-- 💬 **Ask me about:** Systems programming, backend architecture, or football coaching.
+- 👯 **Open to Collaboration:** Looking to contribute to open-source projects in `Go`, `C++`, and Kubernetes Operators.
+- 🚀 **Opportunities:** Open to **Platform Engineering** and **Backend Engineering** roles in fintech or cloud-native environments. Strong background building scalable systems with Go, Google Cloud services (Cloud Run, Spanner, Cloud Build), gRPC, and RESTful APIs. Preparing for Google Cloud Professional Cloud Architect (GCPA).
+- 💬 **Ask me about:** Systems programming, backend architecture, Kubernetes operators, gRPC, Cloud Run, or football coaching.
 - 📫 **Reach me:** [oodegbaro@gmail.com](mailto:oodegbaro@gmail.com)
 - 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I enjoy coaching football and prefer serial movies over standalone films.
 
+---
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babyfaceEasy)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyfaceEasy&show_icons=true)-->
-
-<!--![Olakunle's GitHub stats](https://github-readme-stats.vercel.app)-->
+### 🌱 Currently Learning & Building
+- Building **Kubernetes Operators** using **Kubebuilder**
+- Preparing for **Google Cloud Professional Cloud Architect (GCPA)**
 
 ---
 
 ### 📊 My GitHub Stats
 
-![Olakunle's GitHub stats](https://github-readme-stats.vercel.app)
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=babyfaceEasy&show_icons=true&theme=radical&hide_border=true" height="195" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=babyfaceEasy&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=python" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=babyfaceEasy&theme=radical&hide_border=true" height="195" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app)
-
-![GitHub Streak](https://streak-stats.demolab.com)
+![Profile Views](https://komarev.com/ghpvc/?username=babyfaceEasy&color=00b4d8&style=flat-square)
