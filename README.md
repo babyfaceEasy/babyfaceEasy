@@ -9,7 +9,7 @@
 - 🚀 **Opportunities:** Open to **Platform Engineering** and **Backend Engineering** roles in fintech or cloud-native environments. Strong background building scalable systems with Go, Google Cloud services (Cloud Run, Spanner, Cloud Build), gRPC, and RESTful APIs. Preparing for Google Cloud Professional Cloud Architect (GCPA).
 - 💬 **Ask me about:** Systems programming, backend architecture, Kubernetes operators, gRPC, Cloud Run, or football coaching.
 - 📫 **Reach me:** [oodegbaro@gmail.com](mailto:oodegbaro@gmail.com)
-- 😄 **Pronouns:** he/him
+- 😄 **Pronouns:** he/him.
 - ⚡ **Fun fact:** I enjoy coaching football and prefer serial movies over standalone films.
 
 ---
