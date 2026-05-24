@@ -1,6 +1,6 @@
 ### Hi there, I'm Olakunle 👋
 
-##### Software Engineer based in Lagos, Nigeria 🇳🇬 | 6+ years building scalable backend systems in Fintech | Transitioning into Platform Engineering
+##### Software Engineer based in Malmö, Sweden 🇸🇪 | 6+ years building scalable backend systems in Fintech | Transitioning into Platform Engineering
 
 - 🛠 **Tech Stack:**  
   <img src="https://skillicons.dev/icons?i=go,cpp,typescript,nodejs,php,kubernetes,docker,gcp,postgres,grpc&perline=10" height="32" />
