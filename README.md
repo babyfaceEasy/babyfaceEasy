@@ -3,9 +3,9 @@
 ##### Software Engineer based in Malmö, Sweden 🇸🇪 | 6+ years building scalable backend systems in Fintech | Transitioning into Platform Engineering
 
 - 🛠 **Tech Stack:**  
-  <img src="https://skillicons.dev/icons?i=go,cpp,typescript,nodejs,php,kubernetes,docker,gcp,postgres,grpc&perline=10" height="32" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,nodejs,cpp,php,kubernetes,docker,gcp,postgres,grpc&perline=10" height="32" />
 
-- 👯 **Open to Collaboration:** Looking to contribute to open-source projects in `Go`, `C++`, and Kubernetes Operators.
+- 👯 **Open to Collaboration:** Looking to contribute to open-source projects in `Go`,`Node.js`,`C++`, and Kubernetes Operators.
 - 🚀 **Opportunities:** Open to **Platform Engineering** and **Backend Engineering** roles in fintech or cloud-native environments. Strong background building scalable systems with Go, Google Cloud services (Cloud Run, Spanner, Cloud Build), gRPC, and RESTful APIs. Preparing for Google Cloud Professional Cloud Architect (GCPA).
 - 💬 **Ask me about:** Systems programming, backend architecture, Kubernetes operators, gRPC, Cloud Run, or football coaching.
 - 📫 **Reach me:** [oodegbaro@gmail.com](mailto:oodegbaro@gmail.com)
