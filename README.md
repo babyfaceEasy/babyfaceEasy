@@ -5,17 +5,24 @@
 - 🛠 **Tech Stack:**  
   <img src="https://skillicons.dev/icons?i=go,typescript,nodejs,cpp,php,kubernetes,docker,gcp,postgres,grpc&perline=10" height="32" />
 
-- 👯 **Open to Collaboration:** Looking to contribute to open-source projects in `Go`,`Node.js`,`C++`, and Kubernetes Operators.
+- 🚀 **Core Expertise:** Designing fault-tolerant distributed systems, high-throughput microservices, and custom Kubernetes controllers. Deeply experienced with Google Cloud infrastructure (Spanner, Cloud Run, Pub/Sub, Cloud Build).
+- 💼 **Target Roles:** Senior/Lead Backend Engineering opportunities across Ireland, the Netherlands, and Sweden.
+<!-- - 👯 **Open to Collaboration:** Looking to contribute to open-source projects in `Go`,`Node.js`,`C++`, and Kubernetes Operators. -->
+- 👯 **Open to Collaboration:** Architectural reviews and open-source contributions in Cloud Native tools, Go systems programming, `Go` and custom Kubernetes Extensions.
 - 🚀 **Opportunities:** Open to **Platform Engineering** and **Backend Engineering** roles in fintech or cloud-native environments. Strong background building scalable systems with Go, Google Cloud services (Cloud Run, Spanner, Cloud Build), gRPC, and RESTful APIs. Preparing for Google Cloud Professional Cloud Architect (GCPA).
-- 💬 **Ask me about:** Systems programming, backend architecture, Kubernetes operators, gRPC, Cloud Run, or football coaching.
+- 💬 **Ask me about:** Concurrency patterns in Go, custom Kubernetes operators, gRPC microservices, cloud migrations, or football coaching tactics.
 - 📫 **Reach me:** [oodegbaro@gmail.com](mailto:oodegbaro@gmail.com) .
 - 😄 **Pronouns:** he/him.
 - ⚡ **Fun fact:** I enjoy coaching football and prefer serial movies over standalone films.
 
 ---
 
+### 🚀 Featured Cloud Native Work
+*   **[S3-Lifecycle-Operator](https://github.com) (In Progress):** A production-ready Kubernetes Custom Controller built using Go and the `controller-runtime` to programmatically provision AWS/Cloud storage infrastructure with automated multi-environment data-purging policies.
+
+---
+
 ### 🌱 Currently Learning & Building
-- Building **Kubernetes Operators** using **Kubebuilder**
 - Preparing for **Google Cloud Professional Cloud Architect (GCPA)**
 
 ---
